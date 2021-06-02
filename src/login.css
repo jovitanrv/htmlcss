@@ -1,0 +1,13 @@
+.mid_bar{
+    width: 50%;
+    border-radius: 3em;
+    margin-top: 10%;
+    margin-left: 25%;
+    padding-top: 28px;
+    padding-bottom: 20px;
+    padding-left: 15%;
+    padding-right: 14%;
+    background-color: #00A8A8;
+    border-width: 10px;
+
+}

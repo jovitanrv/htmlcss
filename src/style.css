@@ -1,0 +1,67 @@
+body { 
+    background-color: #E2F0F1;
+}
+
+nav {
+    background-color: #00A8A8;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+nav a:hover {
+    cursor: pointer;
+    color: gray;
+}
+
+.atas { 
+    height: 100px;
+    background-color: #00A8A8;
+    width: 60%;
+    padding-top: 3px;
+    margin-left: 20%;
+    margin-top: 5px;
+}
+
+input[type=text] {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 5px;
+    width: 40%;
+    border: none;
+    line-height: 50px;
+    border-bottom: 3px solid #DDD;
+    padding: 10px;
+    border-radius : 6px;
+}
+
+input[type=text]:hover {
+    outline: none;
+    border-bottom : 3px solid #13326D;
+}
+
+.profil button {
+    background-color: #00A8A8;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+    margin-top: 25px;
+}
+
+.profil button:hover {
+    cursor: pointer;
+    background-color: #13326D;
+}
+
+.profil {
+    margin-top: 5%;
+}

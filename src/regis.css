@@ -1,0 +1,40 @@
+.regis {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    width: 50%;
+    height: 50%;
+}
+
+input {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 5px;
+    width: 200px;
+    /* border: none; */
+    line-height: 50px;
+    /* border-bottom: 3px solid #DDD; */
+    padding: 10px;
+    border-radius : 6px;
+}
+
+input:hover {
+    outline: none;
+    border-bottom : 3px solid #13326D;
+}
+
+button {
+    background-color: #00A8A8;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+    margin-top: 25px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #13326D;
+}
